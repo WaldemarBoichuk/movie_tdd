@@ -1,0 +1,5 @@
+= Movie Rating & Review App
+== Week 5 of my 12 in 12 Challenge
+
+Today I built a movie review app in Rails 5.(Expirience - More writing TDD) You're actually on the demo application right now. Cool stuff, right!.
+This is v1. something wrong with pictures
